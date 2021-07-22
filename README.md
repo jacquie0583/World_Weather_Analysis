@@ -45,6 +45,6 @@ A marker layer map with a pop-up markers for the cities on the itinerary was cre
 ![Image 5 WeatherPy_travel_map_markers.png](https://github.com/jacquie0583/World_Weather_Analysis/blob/main/Image%205%20WeatherPy_travel_map_markers.png)
 
 #  Summary
- The World Weather was an amazing project and grateful that you chose us to further business objectives.
+ The World Weather Analysis was an amazing project to be involved in and grateful that you chose us to further business objectives.
  
 
