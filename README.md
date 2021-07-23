@@ -19,7 +19,9 @@ To begin, a Python script was created to visualize the weather of 500+ cities ac
       • Include a log of each city as it’s being processed with the city number and city name.
       • Save a CSV of all retrieved data 
       
-![Image 1](https://github.com/jacquie0583/World_Weather_Analysis/blob/main/Image%201.png)
+<p align="center">
+  <img width="300" height="300" src="https://github.com/jacquie0583/World_Weather_Analysis/blob/main/Image%201.png">
+</p>   
       
  ###  Part II – Vacation Search:  Create a Customer Travel Destinations Map
 Using input statements to retrieve customer weather preferences, a map was generated with the following tech tools:   gmaps and the Google Places API.   Those preferences were applied to identify potential travel destinations and nearby hotels. To give the customers a chance to visualize their vacation, a marker layered map with pop-up markers shows those destinations.
