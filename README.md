@@ -1,5 +1,11 @@
-#  World_Weather_Analysis
-##  Let’s Plan That Trip
+#  World_Weather_Analysis - Let’s Plan That Trip
+##  Resources:
+Data Source: PyBer_Challenge_starter_code.ipynb named later as PyBer_Challenge.ipynb
+
+Data File: file.csv
+
+Software: Matplotli 3.2.2, Python 3.9, Visual Studio Code 1.50.0, Anaconda 4.8.5, Jupyter Notebook 6.1.4, Pandas
+
 ##  Background
 
 ### Taking the PlanMyTrip app, our company incorporates advanced technology to make a few changes to take the app to the next level. Specifically, by incorporating a weather description to the weather data. Followed by using the beta testers to input statements to filter the data for participants’ weather preferences, which will be used to identify potential travel destinations and nearby hotels. Then, generating a list of potential travel destinations, the beta tester filters out four cities to create a travel itinerary. Finally, utilizing the Google Maps Directions API, a travel route between the four cities is generated as well as a marker layer map.
