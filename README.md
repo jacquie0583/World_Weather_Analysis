@@ -26,7 +26,7 @@ To begin, a Python script was created to visualize the weather of 500+ cities ac
       • Save a CSV of all retrieved data 
       
 <p align="center">
-  <img width="300" height="300" src="https://github.com/jacquie0583/World_Weather_Analysis/blob/main/Image%201.png">
+  <img width="600" height="300" src="https://github.com/jacquie0583/World_Weather_Analysis/blob/main/Image%201.png">
 </p>   
       
  ###  Part II – Vacation Search:  Create a Customer Travel Destinations Map
